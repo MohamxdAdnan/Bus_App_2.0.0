@@ -1,0 +1,25 @@
+.container{
+display:grid;
+padding:10px;
+border-style: solid;
+width:30%;
+float:right;
+}
+
+.gap{
+padding:70px;
+}
+
+div{
+margin-bottom:10px;
+}
+
+.right-part{
+float:right;
+}
+
+button{
+float:right;
+margin:10px;
+font-size:18px;
+}

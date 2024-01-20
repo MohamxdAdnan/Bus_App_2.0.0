@@ -1,0 +1,35 @@
+.container{
+display:flex;
+
+justify-content: space-evenly;
+}
+.lower{
+
+
+
+border-style: solid;
+margin:10px;
+padding:10px;
+}
+
+.upper{
+border-style: solid;
+margin:10px;
+padding:10px;
+}
+
+.item-1{
+padding:10px;
+}
+button{
+padding:10px 20px;
+border-radius:5px;
+}
+
+.vl {
+  border-left: 6px solid black;
+  height: 50px;
+}
+.gp{
+padding-left:38px
+}
